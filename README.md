@@ -1,5 +1,7 @@
 # **FEI Projectile Motion Simulation**
 
+![Tela Principal da Simulação](./Images/ProjectLogo.gif)
+
 ## **Introdução**
 
 Este é o repositório oficial do projeto de iniciação didática realizado pelo aluno Rafael Zacarias Palierini e orientadora Eliane de Fátima Chinaglia com apoio do [Centro Universitário FEI](https://portal.fei.edu.br/).
@@ -18,7 +20,7 @@ Este projeto tem como objetivo melhorar as aulas de laboratório de Física I pa
 
 [Manual](#Manual)
 
-[FAQ (Perguntas Frequentemente Feitas)](#FAQ-(Perguntas-Frequentemente-Feitas))
+[FAQ (Perguntas Frequentemente Feitas)](#faq-perguntas-frequentemente-feitas)
 
 ## **Simulação**
 
