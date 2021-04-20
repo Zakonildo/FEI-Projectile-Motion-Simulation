@@ -18,7 +18,7 @@ Este projeto tem como objetivo melhorar as aulas de laboratório de Física I pa
 
 [Manual](#Manual)
 
-[FAQ (Perguntas Frequentemente Feitas)](#FAQ-(Perguntas-Frequentemente-Feitas))
+[FAQ (Perguntas Frequentemente Feitas)](#faq-perguntas-frequentemente-feitas)
 
 ## **Simulação**
 
