@@ -37,9 +37,9 @@ Na simulação é possível calcular a trajetória do movimento e as seguintes g
 
 Também é possível calcular os parâmetros de resistência do ar β e ɣ. Sendo β o parâmetro de atrito proporcional à velocidade e ɣ o parâmetro de atrito proporcional à velocidade quadrada.
 
-Cada trajetória calculada resulta em um plotagem de um gráfico demonstrando a trajetória do movimento assim como também é plotado os gráficos de todas as outras grandezas cinemáticas em seus respectivos gráficos.
+Cada trajetória calculada resulta em uma plotagem de um gráfico demonstrando a trajetória do movimento, também é plotado os gráficos de todas as outras grandezas cinemáticas em seus respectivos gráficos.
 
-Para alternar entre os gráficos, basta selecionar através dos botões do lado esquerdo da simulação. Isto irá mostrar o gráfico desejado e também irá alternar os parâmetros necessários para calcular a opção selecionada.
+Para alternar entre os gráficos, basta selecionar o que deseja através dos botões do lado esquerdo da simulação. Isto irá mostrar o gráfico desejado e também irá alternar os parâmetros necessários para calcular a opção selecionada.
 
 No gráfico é possível dar e remover zoom com o scroll do mouse. Também é possível arrasta-lo para uma melhor análise apenas clicando no gráfico com o botão esquerdo do mouse e arrastando.
 
@@ -50,16 +50,16 @@ Requisitos:
 - Anaconda Navigator 1.9.12
 - Mínimo de 256 MB de RAM (Quanto mais RAM, mais plotagens podem ser feitas)
 
-Primeiro é necessário clonar o repositório do GitHub. Caso seja sua primeira vez no GitHub e não saiba como fazer isso, basta clicar no botão verde visto no começo da página e então clicar em Download ZIP como demonstra na imagem abaixo.
+Primeiro é necessário clonar o repositório do GitHub. Caso seja sua primeira vez no GitHub e não saiba como fazer isso, basta clicar no botão verde visto no começo da página e então clicar em Download ZIP como demonstra a imagem abaixo.
 
 
 <p align="center">
   <img src="./Images/Clone.png" />
 </p>
 
-Isso irá baixar um arquivo .zip com uma pasta com o nome do repositório. Dentro da pasta estão todos os arquivos da simulação. Coloque a pasta *Simulation* (ou *first_release* se for utilizar a primeira versão) em algum lugar de fácil acesso como por exemplo a pasta Documentos de seu computador.
+Isto irá baixar um arquivo .zip contendo uma pasta com o nome do repositório. Dentro da pasta estão todos os arquivos da simulação. Coloque a pasta **Simulation** (ou **first_release** se for utilizar a primeira versão) em algum lugar de fácil acesso como por exemplo a pasta Documentos de seu computador.
 
-Para utilizar, recomenda-se baixar o [Anaconda](https://www.anaconda.com/products/individual) pois ele já vem pré-instalado com todas as bibliotecas utilizadas na simulação.
+Para utilizar, recomenda-se baixar o [Anaconda](https://www.anaconda.com/products/individual) pois ele já vem com todas as bibliotecas utilizadas na simulação pré-instaladas.
 
 Com o [Anaconda](https://www.anaconda.com/products/individual) instalado, abra o Anaconda Navigator e a seguinte tela deverá ser vista:
 
@@ -77,7 +77,7 @@ Ao clicar, uma nova aba em seu navegador deverá ser aberta. Essa nova aba deve 
 
 ![Projeto aberto no Jupyter Notebook](./Images/JupyterCode.png)
 
-Está é a tela do código do projeto, para rodar o código, basta clicar no botão ![Botão](./Images/Button.png), isso irá abrir um pop-up perguntando se você quer reiniciar o Kernel e rodar todas as células, clique no vermelho da imagem abaixo.
+Esta é a tela do código do projeto, para rodar o código, basta clicar no botão ![Botão](./Images/Button.png), isso irá abrir um pop-up perguntando se você quer reiniciar o Kernel e rodar todas as células, clique no botão vermelho da imagem abaixo.
 
 ![Restart Kernel and Run Cells](./Images/RestartKernel.png)
 
@@ -89,7 +89,7 @@ Agora basta utilizar a simulação.
 
 ## **Atualização**
 
-Caso haja dúvidas se surgiu alguma atualização da simulação, basta clicar no botão de ajuda e então clicar no ícone do GitHub. Você será redirecionado para está página e poderá verificar quando foi a última atualização.
+Caso haja dúvidas se surgiu alguma atualização da simulação, basta clicar no botão de **AJUDA** e então clicar no ícone do GitHub. Você será redirecionado para esta página e poderá verificar quando foi a última atualização.
 
 ## **Manual**
 
@@ -101,7 +101,7 @@ No momento está sendo feito um Manual explicando como utilizar a simulação po
 
 * **Posso utilizar em algum outro sistema operacional sem ser Windows?**
 
-    **R:** O projeto foi desenvolvimento completamente utilizando Windows 10. Qualquer tentativa de roda-lo em outro sistema operacional não é garantido de funcionar. Contudo, uma versão para Linux é planejada para ser lançada futuramente.
+    **R:** O projeto foi desenvolvimento por completo utilizando Windows 10. Qualquer tentativa de roda-lo em outro sistema operacional não é garantido de funcionar. Contudo, uma versão para Linux é planejada para ser lançada futuramente.
 
 ---
 
@@ -113,7 +113,7 @@ No momento está sendo feito um Manual explicando como utilizar a simulação po
 
 * **Posso modificar o código da simulação?**
 
-    **R:** Você pode clonar o repositório e fazer as alterações no seu código baixado. Qualquer alteração no código principal da simulação deve ser consultado e aprovado por mim.
+    **R:** Você pode clonar o repositório e fazer as alterações no seu código baixado. Qualquer alteração no código principal do repositório da simulação deve ser consultado e aprovado por mim.
 
 ---
 
